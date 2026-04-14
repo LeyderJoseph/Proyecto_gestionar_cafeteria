@@ -1,2 +1,2 @@
-cafes 
-
+Este proyecto es sobre resolver el problema de uan cafeteria apra agregar, mofidicar y eliminar productos
+en el caso de agreagr utilizamos la formula en el bach de git hub nano para agregar el cafe que queramos, para elimitar utilizamos git rm y para modificarlo simplemente volvemos a entrar con nano a ese producto lo modificamos y ya, cabe recalcar que todos los cambios que se van ahcer deben realziar lso comando add . y commit correspondiente
