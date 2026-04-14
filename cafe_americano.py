@@ -1,4 +1,5 @@
 cafe americano
-descripcion: suave
+descrpcion: muyr cargado
 precio: 2000
+disponibilidad:50
 
